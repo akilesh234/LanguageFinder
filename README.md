@@ -1,8 +1,8 @@
-# Language Identifier
+# Language Finder
 
 ## Overview
 
-The **Language Identifier** is a Python-based GUI application that detects the language, country, and language family of a given word or character. It uses Python’s built-in **unicodedata** module to analyze Unicode character names and classify them according to their script and linguistic origin. The GUI is implemented using **Tkinter** and **ttk**.
+The **Language Finder** is a Python-based GUI application that detects the language, country, and language family of a given word or character. It uses Python’s built-in **unicodedata** module to analyze Unicode character names and classify them according to their script and linguistic origin. The GUI is implemented using **Tkinter** and **ttk**.
 
 This project was developed as part of a **B.Tech. in Artificial Intelligence and Data Science** program at **PSG Institute of Technology and Applied Research, Coimbatore**, affiliated with **Anna University, Chennai**.
 
